@@ -3,7 +3,6 @@
 # Install dependencies in requirements.txt
 # Dockerfile should pass hadolint
 # app.py should pass pylint
-# (Optional) Build a simple integration test
 
 setup:
 	# Create python virtualenv & source it
